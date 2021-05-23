@@ -13,4 +13,6 @@
   
 <H3 align="center"> MEMBROS DO GRUPO </h3>
 
-<h6>Nome: Bruno Miniaci Acraini - TIA: 31911031 • Nome: Gabriela Fonseca Paradela - TIA: 31910701 • Nome: Eduardo Fernando de Oliveira - TIA: 41823346 </h6>
+<p align="center">
+  <h6>Nome: Bruno Miniaci Acraini - TIA: 31911031 • Nome: Gabriela Fonseca Paradela - TIA: 31910701 • Nome: Eduardo Fernando de Oliveira - TIA: 41823346 </h6>
+</p<
