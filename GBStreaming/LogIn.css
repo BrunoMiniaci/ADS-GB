@@ -1,0 +1,266 @@
+.u-section-1 {
+  background-image: url("images/396a2a39-8d34-4260-b07a-6391fe04ded5_what_is_netflix_2_en.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 701px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  text-shadow: 2px 2px 3px rgba(0,0,0,1);
+  margin: 252px 508px 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 215px;
+  width: 570px;
+  margin: 8px auto 60px;
+}
+
+.u-section-1 .u-label-1 {
+  font-size: 0.875rem;
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-2 {
+  font-size: 0.875rem;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-3 {
+  font-size: 0.875rem;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  border-style: none;
+  font-weight: 700;
+  padding-left: 70px;
+  padding-right: 70px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 578px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 408px;
+    margin-right: 408px;
+  }
+
+  .u-section-1 .u-label-1 {
+    font-weight: 400;
+  }
+
+  .u-section-1 .u-label-2 {
+    font-weight: 400;
+  }
+
+  .u-section-1 .u-label-3 {
+    font-weight: 400;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 443px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 298px;
+    margin-right: 298px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 332px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 208px;
+    margin-right: 208px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 209px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 108px;
+    margin-right: 108px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+}.u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 458px;
+}
+
+.u-section-2 .u-text-1 {
+  background-image: none;
+  text-transform: none;
+  font-size: 3.75rem;
+  width: 559px;
+  font-weight: 700;
+  text-shadow: 2px 2px 3px rgba(0,0,0,1);
+  margin: 24px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-style: normal;
+  width: 450px;
+  text-shadow: 2px 2px 3px rgba(0,0,0,1);
+  margin: 11px auto 0;
+}
+
+.u-section-2 .u-form-1 {
+  height: 299px;
+  width: 835px;
+  margin: 24px auto 34px;
+}
+
+.u-section-2 .u-form-group-1 {
+  margin-left: auto;
+}
+
+.u-section-2 .u-form-group-2 {
+  margin-left: auto;
+  margin-right: 0;
+}
+
+.u-section-2 .u-form-group-3 {
+  margin-left: auto;
+}
+
+.u-section-2 .u-form-group-4 {
+  margin-left: auto;
+}
+
+.u-section-2 .u-form-group-5 {
+  margin-left: auto;
+}
+
+.u-section-2 .u-btn-1 {
+  font-size: 0.875rem;
+  margin-left: auto;
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-image: none;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-1 {
+    font-family: Roboto, sans-serif;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-form-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-2 .u-form-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-1 {
+    font-size: 2.25rem;
+    width: 340px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-form-1 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-form-group-1 {
+    width: 100%;
+  }
+
+  .u-section-2 .u-form-group-2 {
+    width: 100%;
+  }
+
+  .u-section-2 .u-form-group-3 {
+    width: 100%;
+  }
+
+  .u-section-2 .u-form-group-4 {
+    width: 100%;
+  }
+
+  .u-section-2 .u-form-group-5 {
+    width: 100%;
+  }
+}.u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 180px;
+}
+
+.u-section-3 .u-social-icons-1 {
+  height: 60px;
+  min-height: 16px;
+  width: 300px;
+  min-width: 124px;
+  white-space: nowrap;
+  margin: 60px auto;
+}
+
+.u-section-3 .u-icon-1 {
+  height: 100%;
+  color: rgb(255, 255, 255) !important;
+}
+
+.u-section-3 .u-icon-2 {
+  height: 100%;
+  color: rgb(255, 255, 255) !important;
+}
+
+.u-section-3 .u-icon-3 {
+  height: 100%;
+  color: rgb(255, 255, 255) !important;
+}
+
+.u-section-3 .u-icon-4 {
+  height: 100%;
+  color: rgb(255, 255, 255) !important;
+}
