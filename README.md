@@ -8,3 +8,5 @@
   <a href="https://trello.com/b/PUtOIgVG/desenvolvimento-do-projeto">Trello</a> •
   <a href=" ">Vídeo Explicativo</a>
   </p>
+
+<p align="center"><img src="https://fontmeme.com/temporary/9a400ebdde3b5f90d1fd164de3f861b2.png"> width="600px" height="400px" align="center"></p>
