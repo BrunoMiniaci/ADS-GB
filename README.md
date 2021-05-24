@@ -6,7 +6,7 @@
   <a href="https://github.com/BrunoMiniaci/ADS-GB/tree/master/GBStreaming"> Código</a> •
   <a href="https://github.com/BrunoMiniaci/ADS-GB/tree/master/Documentos"> Documentação </a> •
   <a href="https://trello.com/b/PUtOIgVG/desenvolvimento-do-projeto">Trello</a> •
-  <a href=" ">Vídeo Explicativo</a>
+  <a href="https://www.youtube.com/watch?v=dDQ6F-HNHp0&ab_channel=Bruno">Vídeo Explicativo</a>
   </p>
 
 <p align="center"><img src="https://fontmeme.com/temporary/9a400ebdde3b5f90d1fd164de3f861b2.png"</p>
