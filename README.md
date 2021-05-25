@@ -9,7 +9,7 @@
   <a href="https://www.youtube.com/watch?v=dDQ6F-HNHp0&ab_channel=Bruno">Vídeo Explicativo</a>
   </p>
 
-<p align="center"><img src="https://fontmeme.com/temporary/9a400ebdde3b5f90d1fd164de3f861b2.png"</p>
+<p align="center"><img src="https://i.imgur.com/PCUttJU.png"</p>
   
 <H3 align="center"> MEMBROS DO GRUPO </h3>
 
